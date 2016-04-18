@@ -1,0 +1,25 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca",
+        "mobi.monaca.plugins.MonacaBackend"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "6",
+    "cordova_version": "5.2",
+    "plugin_settings": [],
+    "external_plugins": [
+        "cordova-plugin-splashscreen@2.1.0",
+        "cordova-plugin-network-information@1.0.1",
+        "cordova-plugin-inappbrowser@1.0.1",
+        "cordova-plugin-whitelist@1.0.0"
+    ],
+    "title-ja": "",
+    "title-en": "444444",
+    "description-ja": "",
+    "description-en": "",
+    "category": "User Template",
+    "platform": [
+        "android"
+    ],
+    "name": "generated-1452181275-56435560fd1734c34b6f0a97"
+}

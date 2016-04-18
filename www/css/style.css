@@ -1,0 +1,267 @@
+@font-face {
+    font-family: 'pt_sansregular';
+    src: url('../css/PTS55F-webfont.eot');
+    src: url('../css/PTS55F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../css/PTS55F-webfont.woff') format('woff'),
+         url('../css/PTS55F-webfont.ttf') format('truetype'),
+         url('../css/PTS55F-webfont.svg#pt_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'neou_thin';
+    src: url('../css/neou-thin-webfont.eot');
+    src: url('../css/neou-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../css/neou-thin-webfont.woff') format('woff'),
+         url('../css/neou-thin-webfont.ttf') format('truetype'),
+         url('../css/neou-thin-webfont.svg#pt_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.list__item {
+ border: none!important;
+ color: white!important;
+}
+
+.pure-u-1-2{
+  font-family: 'pt_sansregular'!important;
+  font-size: x-small;
+  }
+
+.page {
+    font-family:'pt_sansregular'!important;
+    font-size: x-small;
+    }
+    
+ .page__content {
+        margin: 0px;
+        text-align: justify;
+      }    
+
+.tabela {
+  margin:auto;
+  width:100vw; 
+  height:90vh; 
+  border-spacing: 2px; 
+  border-collapse: separate; 
+  text-align:center
+}
+
+.item_cinzento {
+  background-color:lightgrey; 
+  width:98%;
+  height:98%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align:center;
+  margin-bottom: 3px;
+}
+
+.item_verde {
+  background-color:lightgreen; 
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align:center;
+  
+}
+
+.divTexto_item{
+  position: relative; 
+  line-height: 20px;
+}
+
+.progress {
+  overflow: hidden;
+	height: 8px;
+	width: 70%;
+	margin: auto;
+}
+
+.progress-bar {
+	width: 0;
+	height: 100%;
+	color: #fff;
+	text-align: center;
+	background-color: #ee303c; 
+}
+
+.progress-striped .progress-bar {
+			background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+			background-image: linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+			background-size: 40px 40px;
+}
+
+.progress.active .progress-bar {
+	-webkit-animation: progress-bar-stripes 2s linear infinite;
+	animation: progress-bar-stripes 2s linear infinite;
+	-moz-animation: progress-bar-stripes 2s linear infinite;
+}
+
+.ceu_estrela1 {
+  position: absolute;
+  left: 161px;
+  top: 101px;
+}
+
+.ceu_estrela2 {
+  position: absolute;
+  left: 250px;
+  top: 332px;
+}
+
+.ceu_estrela3 {
+  position: absolute;
+  left: 465px;
+  top: 166px;
+}
+
+.ceu_estrela4 {
+  position: absolute;
+  left: 688px;
+  top: 301px;
+}
+
+.ceu_estrela5 {
+  position: absolute;
+  left: 802px;
+  top: 103px;
+}
+
+.terra_maca1 {
+  position: absolute;
+  left: 171px;
+  top: 596px;
+}
+
+.terra_maca2 {
+  position: absolute;
+  left: 330px;
+  top: 313px;
+}
+
+.terra_maca3 {
+  position: absolute;
+  left: 363px;
+  top: 183px;
+}
+
+.terra_maca4 {
+  position: absolute;
+  left: 655px;
+  top: 259px;
+}
+
+.terra_maca5 {
+  position: absolute;
+  left: 686px;
+  top: 394px;
+}
+
+.neve_1 {
+  position: absolute;
+  left: 462px;
+  top: 253px;
+}
+.neve_2 {
+  position: absolute;
+  left: 533px;
+  top: 328px;
+}
+.neve_3 {
+  position: absolute;
+  left: 564px;
+  top: 384px;
+}
+.neve_4 {
+  position: absolute;
+  left: 609px;
+  top: 489px;
+}
+.neve_5 {
+  position: absolute;
+  left: 621px;
+  top: 548px;
+}
+
+.circo_1 {
+  position: absolute;
+  left: 294px;
+  top: 191px;
+}
+.circo_2 {
+  position: absolute;
+  left: 392px;
+  top: 98px;
+}
+.circo_3 {
+  position: absolute;
+  left: 554px;
+  top: 61px;
+}
+.circo_4 {
+  position: absolute;
+  left: 659px;
+  top: 139px;
+}
+.circo_5 {
+  position: absolute;
+  left: 697px;
+  top: 238px;
+}
+
+.estendal_1 {
+  position: absolute;
+  top: 468px;
+  left: 214px;
+}
+.estendal_2 {
+  position: absolute;
+  top: 475px;
+  left: 504px;
+}
+.estendal_3 {
+  position: absolute;
+  top: 477px;
+  left: 588px;
+}
+.estendal_4 {
+  position: absolute;
+  top: 478px;
+  left: 695px;
+}
+.estendal_5 {
+  position: absolute;
+  top: 480px;
+  left: 784px;
+}
+
+.mar_1 {
+  position: absolute;
+  top: 368px;
+  left: 131px;
+}
+.mar_2 {
+  position: absolute;
+  top: 331px;
+  left: 504px;
+}
+.mar_3 {
+  position: absolute;
+  top: 137px;
+  left: 548px;
+}
+.mar_4 {
+  position: absolute;
+  top: 508px;
+  left: 635px;
+}
+.mar_5 {
+  position: absolute;
+  top: 250px;
+  left: 744px;
+}
+

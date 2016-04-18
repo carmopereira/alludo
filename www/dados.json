@@ -1,0 +1,29 @@
+{"categorias": {
+"futebol":[
+    {"id":"1_0", "titulo":"VAI VIR... CHARTERS", "autor":"Paulo Futre", "nomecodigo":"charters", "file":"mp3/futebol/charters.mp3", "css":"item_cinzento"},
+    {"id":"1_1", "titulo":"FALSO", "autor":"Pedro Guerra", "nomecodigo":"falso", "file":"mp3/futebol/falso.mp3", "css":"item_verde"},
+    {"id":"1_2", "titulo":"SIIIIIIII", "autor":"Cristiano Ronaldo", "nomecodigo":"siiiii", "file":"mp3/futebol/si.mp3", "css":"item_cinzento"},
+    {"id":"1_3", "titulo":"ZÉ PINA", "autor":"Pedro Guerra", "nomecodigo":"zepina", "file":"mp3/futebol/zepina.mp3", "css":"item_verde"},
+    {"id":"1_4", "titulo":"Sousa Martins", "autor":"Pedro Guerra", "nomecodigo":"sousamartins", "file":"mp3/futebol/sousamartins.mp3", "css":"item_cinzento"},
+    {"id":"1_5", "titulo":"Fica-lhe mal 1", "autor":"Pedro Guerra", "nomecodigo":"ficalhemal1", "file":"mp3/futebol/ficalhemal1.mp3", "css":"item_verde"},
+    {"id":"1_6", "titulo":"Fica-lhe mal 2", "autor":"Pedro Guerra", "nomecodigo":"ficalhemal2", "file":"mp3/futebol/ficalhemal2.mp3", "css":"item_cinzento"},
+    {"id":"1_7", "titulo":"Não vá por aí", "autor":"Pedro Guerra", "nomecodigo":"naovaporai", "file":"mp3/futebol/naovaporai.mp3", "css":"item_verde"},
+    {"id":"1_8", "titulo":"Deixe-me acabar", "autor":"Eduardo Barroso", "nomecodigo":"deixemeacabar", "file":"mp3/futebol/deixemeacabar.mp3", "css":"item_cinzento"}
+],
+"musica":[
+    {"id":"2_0", "titulo":"AGORA AGUENTA", "autor":"José Augusto", "nomecodigo":"aguenta", "file":"mp3/musica/aguenta.mp3", "css":"item_cinzento"},
+    {"id":"2_1", "titulo":"EU NÃO CONSIGO", "autor":"Rita Guerra", "nomecodigo":"eunaoconsigo", "file":"mp3/musica/eunaoconsigo.mp3", "css":"item_verde"},
+    {"id":"2_2", "titulo":"180 180... 360", "autor":"Vira Milho", "nomecodigo":"180180", "file":"mp3/musica/180180.mp3", "css":"item_cinzento"},
+    {"id":"2_3", "titulo":"DEPOIS DE TI", "autor":"Toni Carreira", "nomecodigo":"depoisdeti", "file":"mp3/musica/depoisdeti.mp3", "css":"item_verde"},
+    {"id":"2_4", "titulo":"NA CABANA...", "autor":"José Cid", "nomecodigo":"nacabana", "file":"mp3/musica/nacabana.mp3", "css":"item_cinzento"},
+    {"id":"2_5", "titulo":"AS BALEIAS", "autor":"Roberto Carlos", "nomecodigo":"asbaleias", "file":"mp3/musica/asbaleias.mp3", "css":"item_verde"},
+    {"id":"2_6", "titulo":"QUERO VOLTAR", "autor":"Jaimão", "nomecodigo":"querovoltar", "file":"mp3/musica/querovoltar.mp3", "css":"item_cinzento"}
+],
+"televisao":[
+    {"id":"3_0", "titulo":"Espectáculo!!", "autor":"Fernando Mendes", "nomecodigo":"espectaculo", "file":"mp3/televisao/espectaculo.mp3", "css":"item_cinzento"},
+    {"id":"3_1", "titulo":"A bater punho", "autor":"Miguel Gonçalves", "nomecodigo":"abaterpunho", "file":"mp3/televisao/abaterpunho.mp3", "css":"item_verde"},
+    {"id":"3_2", "titulo":"Vós tendes palavras...", "autor":"Missa TVI", "nomecodigo":"vostendespalavras", "file":"mp3/televisao/vostendespalavras.mp3", "css":"item_cinzento"}
+],
+"sonsdomundo":[
+    {"id":"4_0", "titulo":"FÃ", "autor":"Pedro Gomes", "nomecodigo":"faaaaa", "file":"mp3/sonsdomundo/fa.mp3", "css":"item_cinzento"}
+]}}
